@@ -16,12 +16,12 @@ const data = [
   {
     sales: '894k',
     trendDir: 'up',
-    subtitle: 'Food & Drink',
+    subtitle: 'Surgery Bills',
     title: '$8,656k',
   },
   {
     sales: '645k',
-    subtitle: 'Recreation',
+    subtitle: 'Medical Equipments',
     trendDir: 'down',
     title: '$2,415k',
    
@@ -30,14 +30,14 @@ const data = [
     sales: '148k',
     title: '$865k',
     trendDir: 'up',
-    subtitle: 'Hospital',
+    subtitle: 'Laboratory',
    
   },
   {
     sales: '86k',
     title: '$745k',
     trendDir: 'down',
-    subtitle: 'Entertainment',
+    subtitle: 'Medicines',
    
   },
 
